@@ -9,10 +9,10 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-FFB65C?style=for-the-badge&logo=googlechrome&logoColor=black)](https://your-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Kuke-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
-[![Discord](https://img.shields.io/badge/Discord-Kuke-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR-DISCORD-ID)
+[![GitHub](https://img.shields.io/badge/GitHub-Kukkenn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kukkenn)
+[![Discord](https://img.shields.io/badge/Discord-kuke34-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kuke34)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/Email-write-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-write-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartekgrz4@gmail.com)
 
 </div>
 
@@ -20,21 +20,19 @@
 
 ### <img src="https://cdn.simpleicons.org/serverfault/FFB65C" width="20" align="center"> &nbsp;About me
 
-I'm Bartosz, also known as **Kuke**. I write Python scripts and automation, Discord bots, and web apps, from simple HTML, CSS and JavaScript pages to full applications with a FastAPI backend and a database. I like turning everyday problems into small, useful tools, and I keep taking on more advanced projects.
+I'm Bartosz, also known as **Kuke**. I write Python scripts and automation, Discord bots, and web apps, from simple HTML, CSS and JavaScript pages to applications with a database. I like turning everyday problems into small, useful tools, and I keep taking on more advanced projects.
 
 ### <img src="https://cdn.simpleicons.org/stackblitz/FFB65C" width="20" align="center"> &nbsp;Tech stack
 
 <table align="center">
 <tr>
 <td align="center" width="150"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"><br><b>Python</b><br><sub>Scripts, bots, backend</sub></td>
-<td align="center" width="150"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48"><br><b>FastAPI</b><br><sub>Web API framework</sub></td>
 <td align="center" width="150"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"><br><b>JavaScript</b><br><sub>Interactive frontend</sub></td>
 <td align="center" width="150"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"><br><b>HTML</b><br><sub>Page structure</sub></td>
+<td align="center" width="150"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"><br><b>CSS</b><br><sub>Styling and layout</sub></td>
 </tr>
 <tr>
-<td align="center" width="150"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"><br><b>CSS</b><br><sub>Styling and layout</sub></td>
 <td align="center" width="150"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48"><br><b>SQLite</b><br><sub>Lightweight database</sub></td>
-<td align="center" width="150"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"><br><b>Git</b><br><sub>Version control</sub></td>
 <td align="center" width="150"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48"><br><b>Discord</b><br><sub>Bots and integrations</sub></td>
 </tr>
 </table>
@@ -45,19 +43,18 @@ I'm Bartosz, also known as **Kuke**. I write Python scripts and automation, Disc
 <tr>
 <td width="50%" valign="top">
 
-**[ProjectHub](https://github.com/YOUR-USERNAME/projecthub)**
+**[ProjectHub](https://github.com/Kukkenn/projecthub)**
 
-A full-stack catalog for local projects: accounts with CSRF protection, file browser, Markdown docs, live preview, uploads and ZIP backups. FastAPI + SQLite backend, vanilla JavaScript frontend with no build step.
+A full-stack catalog for local projects: accounts with CSRF protection, file browser, Markdown docs, live preview, uploads and ZIP backups. Vanilla JavaScript frontend with no build step.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
 
-**[Discord bot](https://github.com/YOUR-USERNAME/YOUR-BOT-REPO)**
+**[Discord bot](https://github.com/Kukkenn/YOUR-BOT-REPO)**
 
 A moderation bot with polls, reminders and message statistics, backed by a database. *Replace with a link and a short description of your best bot.*
 
@@ -75,7 +72,7 @@ A moderation bot with polls, reminders and message statistics, backed by a datab
 
 ### <img src="https://cdn.simpleicons.org/maildotru/FFB65C" width="20" align="center"> &nbsp;Contact
 
-Best ways to reach me: the buttons at the top, or [your@email.com](mailto:your@email.com).
+Best ways to reach me: the buttons at the top, or [bartekgrz4@gmail.com](mailto:bartekgrz4@gmail.com).
 
 <div align="center">
 
