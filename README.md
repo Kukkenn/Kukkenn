@@ -11,6 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-FFB65C?style=for-the-badge&logo=googlechrome&logoColor=black)](https://your-portfolio.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Kukkenn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kukkenn)
 [![Discord](https://img.shields.io/badge/Discord-kuke34-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kuke34)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE)
 [![Email](https://img.shields.io/badge/Email-write-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bartekgrz4@gmail.com)
 
 </div>
