@@ -24,15 +24,22 @@ I'm Bartosz, also known as **Kuke**. I write Python scripts and automation, Disc
 
 ### <img src="https://cdn.simpleicons.org/stackblitz/FFB65C" width="20" align="center"> &nbsp;Tech stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="150"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"><br><b>Python</b><br><sub>Scripts, bots, backend</sub></td>
+<td align="center" width="150"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48"><br><b>FastAPI</b><br><sub>Web API framework</sub></td>
+<td align="center" width="150"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"><br><b>JavaScript</b><br><sub>Interactive frontend</sub></td>
+<td align="center" width="150"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"><br><b>HTML</b><br><sub>Page structure</sub></td>
+</tr>
+<tr>
+<td align="center" width="150"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"><br><b>CSS</b><br><sub>Styling and layout</sub></td>
+<td align="center" width="150"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48"><br><b>SQLite</b><br><sub>Lightweight database</sub></td>
+<td align="center" width="150"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"><br><b>Git</b><br><sub>Version control</sub></td>
+<td align="center" width="150"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48"><br><b>Discord</b><br><sub>Bots and integrations</sub></td>
+</tr>
+</table>
 
-![Tech stack](https://skillicons.dev/icons?i=python,fastapi,js,html,css,sqlite,git,discord&theme=dark)
-
-</div>
-
-### <img src="https://cdn.simpleicons.org/rocket/FFB65C" width="20" align="center"> &nbsp;Featured projects
-
-#### Advanced
+### <img src="https://cdn.simpleicons.org/rocket/FFB65C" width="20" align="center"> &nbsp;Projects
 
 <table>
 <tr>
@@ -60,38 +67,11 @@ A moderation bot with polls, reminders and message statistics, backed by a datab
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Automation & scrapers](https://github.com/YOUR-USERNAME/YOUR-SCRIPT-REPO)**
-
-Scripts that watch websites, collect data and save it to CSV or a database on a schedule. *Replace with your real project.*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**[Your next big project](https://github.com/YOUR-USERNAME)**
-
-*A placeholder for something you are building right now.*
-
-</td>
-</tr>
 </table>
 
 <p align="center">
   <img src="projecthub/docs/screenshots/library.png" alt="ProjectHub screenshot" width="760">
 </p>
-
-#### Websites
-
-Portfolio pages and small commissioned sites built with HTML, CSS and JavaScript.
-
-[![Site 1](https://img.shields.io/badge/Live-site%201-FFB65C?style=flat-square&logo=googlechrome&logoColor=black)](https://your-site-1.com)
-[![Site 2](https://img.shields.io/badge/Live-site%202-FFB65C?style=flat-square&logo=googlechrome&logoColor=black)](https://your-site-2.com)
 
 ### <img src="https://cdn.simpleicons.org/maildotru/FFB65C" width="20" align="center"> &nbsp;Contact
 
