@@ -19,7 +19,7 @@
 
 ### <img src="https://cdn.simpleicons.org/serverfault/FFB65C" width="20" align="center"> &nbsp;About me
 
-I'm Bartosz, also known as **Kuke**. I write Python scripts and automation, Discord bots, and web apps, from simple HTML, CSS and JavaScript pages to applications with a database. I like turning everyday problems into small, useful tools, and I keep taking on more advanced projects.
+I'm Bartosz, also known as **Kuke**. I write Python scripts and automation, Discord bots, and desktop/web apps with a backend and a database, using HTML, CSS and JavaScript. I like turning everyday problems into small, useful tools, and I keep taking on more advanced projects.
 
 ### <img src="https://cdn.simpleicons.org/stackblitz/FFB65C" width="20" align="center"> &nbsp;Tech stack
 
@@ -44,11 +44,13 @@ I'm Bartosz, also known as **Kuke**. I write Python scripts and automation, Disc
 
 **[ProjectHub](https://github.com/Kukkenn/projecthub)**
 
-A full-stack catalog for local projects: accounts with CSRF protection, file browser, Markdown docs, live preview, uploads and ZIP backups. Vanilla JavaScript frontend with no build step.
+A full-stack catalog for local projects functioning as a desktop app with a backend: accounts with CSRF protection, file browser, Markdown docs, live preview, uploads and ZIP backups. Python and SQLite backend, vanilla JavaScript, HTML, and CSS frontend with no build step.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
