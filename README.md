@@ -57,7 +57,7 @@ A full-stack catalog for local projects functioning as a desktop app with a back
 
 **[Discord bot](https://github.com/Kukkenn/YOUR-BOT-REPO)**
 
-A moderation bot with polls, reminders and message statistics, backed by a database. *Replace with a link and a short description of your best bot.*
+Cooming soon*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Discord](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
@@ -68,7 +68,7 @@ A moderation bot with polls, reminders and message statistics, backed by a datab
 </table>
 
 <p align="center">
-  <img src="projecthub/docs/screenshots/library.png" alt="ProjectHub screenshot" width="760">
+  <img src="projecthub/docs/screenshots/hero.png" alt="ProjectHub screenshot" width="760">
 </p>
 
 ### <img src="https://cdn.simpleicons.org/maildotru/FFB65C" width="20" align="center"> &nbsp;Contact
