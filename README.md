@@ -57,7 +57,7 @@ A full-stack catalog for local projects functioning as a desktop app with a back
 
 **[Discord bot](https://github.com/Kukkenn/YOUR-BOT-REPO)**
 
-Cooming soon*
+Cooming soon
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Discord](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
@@ -67,9 +67,6 @@ Cooming soon*
 </tr>
 </table>
 
-# <p align="center">
-  # <img src="projecthub/docs/screenshots/hero.png" alt="ProjectHub screenshot" width="760">
-# </p>
 
 ### <img src="https://cdn.simpleicons.org/maildotru/FFB65C" width="20" align="center"> &nbsp;Contact
 
