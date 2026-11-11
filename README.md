@@ -67,9 +67,9 @@ Cooming soon*
 </tr>
 </table>
 
-<p align="center">
-  <img src="projecthub/docs/screenshots/hero.png" alt="ProjectHub screenshot" width="760">
-</p>
+# <p align="center">
+  # <img src="projecthub/docs/screenshots/hero.png" alt="ProjectHub screenshot" width="760">
+# </p>
 
 ### <img src="https://cdn.simpleicons.org/maildotru/FFB65C" width="20" align="center"> &nbsp;Contact
 
