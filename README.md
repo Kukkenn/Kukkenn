@@ -70,7 +70,7 @@ Cooming soon
 
 ### <img src="https://cdn.simpleicons.org/maildotru/FFB65C" width="20" align="center"> &nbsp;Contact
 
-Best ways to reach me: the buttons at the top, or [bartekgrz4@gmail.com](mailto:65-enty.chichotac@icloud.com).
+Best ways to reach me: the buttons at the top, or [65-enty.chichotac@icloud.com](mailto:65-enty.chichotac@icloud.com).
 
 <div align="center">
 
